@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sezgin
-- 👀 I’m interested in Swift programming language
-- 🌱 I’m currently learning UIKit 
+- 👀 I’m really into Swift programming language
+- 🌱 I’m currently working on UIKit and SwiftUI 
 - 📫 How to reach me sezgin0776@gmail.com
 
 <!---
