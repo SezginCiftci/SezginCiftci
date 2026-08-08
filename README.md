@@ -1,23 +1,82 @@
-<h1 align="center">Hi 👋, I'm Sezgin</h1>
-<h3 align="center">A passionate iOS developer from Turkey</h3>
+# Hi, I'm Sezgin 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezginciftci" alt="sezginciftci" /></a> </p>
+### Senior iOS Developer | Swift • SwiftUI • UIKit
 
-- 💬 Ask me about **iOS Development**
+I'm a Senior iOS Developer with **5 years of experience** building and maintaining production mobile applications, primarily in the **fintech and financial services** domain.
 
-- 📫 How to reach me **sezgin0776@gmail.com**
+I enjoy working on complex mobile products, designing maintainable architectures, and turning product requirements into reliable iOS experiences.
 
-<h3 align="left">Connect with me:</h3>
+Currently, I'm also exploring **mobile architecture, system design, backend technologies, and cross-platform development** to broaden my engineering perspective.
+
+---
+
+### 👨‍💻 About Me
+
+* 📱 Building iOS applications with **Swift, SwiftUI & UIKit**
+* 🏦 Experienced in **fintech, brokerage and investment applications**
+* 🧩 Interested in **mobile architecture, SDK development & system design**
+* ⚙️ Working with **CI/CD, Fastlane, Jenkins & modular mobile systems**
+* 🧪 Interested in building products, experiments and developer tools
+* 📚 Currently expanding my knowledge beyond mobile into **backend & cloud technologies**
+* 💬 Ask me about **iOS Development, Swift, SwiftUI, UIKit and Mobile Architecture**
+* 📫 Reach me at **[sezgin0776@gmail.com](mailto:sezgin0776@gmail.com)**
+
+---
+
+### 🛠 Tech Stack
+
+**iOS**
+
+`Swift` · `SwiftUI` · `UIKit` · `Objective-C`
+
+`Combine` · `Async/Await` · `AVFoundation` · `WKWebView`
+
+**Architecture & Engineering**
+
+`MVVM` · `Modular Architecture` · `SDK Development` · `REST APIs`
+
+`Unit Testing` · `SPM` · `CocoaPods`
+
+**DevOps & Tools**
+
+`Fastlane` · `Jenkins` · `GitLab CI/CD`
+
+`Firebase` · `TestFlight` · `Git`
+
+---
+
+### 🚀 What I'm Working On
+
+#### 🧪 BorsaLab
+
+An iOS application focused on making financial markets easier to understand through **interactive learning, scenarios and decision-based experiences**.
+
+Built with Swift and SwiftUI.
+
+---
+
+### 🌱 Currently Exploring
+
+I'm gradually expanding beyond iOS development into:
+
+`System Design` · `Backend Development` · `Cloud Technologies` · `Kotlin`
+
+My goal is to understand the systems behind mobile applications — not just the client running on the phone.
+
+---
+
+### 🤝 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/sezgin-çiftçi-48069bab/) · [Medium](https://medium.com/@sezgin0776) · [YouTube — deprecatedOS](https://www.youtube.com/@deprecatedos) · [X](https://x.com/sezgin0776)
+
+---
+
+### 📊 GitHub
+
 <p align="left">
-<a href="https://twitter.com/https://x.com/sezgin0776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sezgin0776" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sezgin-çiftçi-48069bab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sezgin-çiftçi-48069bab/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@sezgin0776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sezgin0776" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@deprecatedos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@deprecatedos" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sezginciftci&show_icons=true&hide_border=true" alt="Sezgin's GitHub stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sezginciftci&show_icons=true&locale=en" alt="sezginciftci" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sezginciftci&" alt="sezginciftci" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sezginciftci&hide_border=true" alt="GitHub Streak" />
+</p>
